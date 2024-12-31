@@ -1,4 +1,4 @@
-﻿
+
 
 # Realtime Location Tracker
 
@@ -14,6 +14,8 @@ This project is a **real-time location tracker** built with React, Express, Sock
 
 - **Frontend**: React.js, Leaflet.js
 - **Backend**: Node.js, Express.js, Socket.IO
+- **Database**: MongoDB (if used for storing user location data)
+- **Deployment**: Netlify, Heroku (or any server-based platform for deployment)
 
 ## Installation
 
@@ -42,7 +44,8 @@ Follow these steps to get your local development environment set up:
 
 ## Screenshots
 
-- Add screenshots of your application here.
+![App Screenshot](assets/1735656749533.jpg)
+
   
 ## Future Features
 
