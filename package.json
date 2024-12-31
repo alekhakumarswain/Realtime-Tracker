@@ -1,0 +1,22 @@
+{
+  "name": "realtime-tracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alekha Kumar Swain",
+  "license": "ISC",
+  "description": "Real time tracking app",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Real-time-Location-tracker"
+  }
+}
