@@ -44,7 +44,7 @@ Follow these steps to get your local development environment set up:
 
 ## Screenshots
 
-![App Screenshot](assets/1735656749533.jpg)
+![App Screenshot](https://raw.githubusercontent.com/alekhakumarswain/Realtime-Tracker/refs/heads/main/views/assets/1735656749533.jpg)
 
   
 ## Future Features
